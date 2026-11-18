@@ -3,9 +3,21 @@
   "displayName": "Towers",
   "version": "1.0.0",
   "description": "Run your Towers companies from Claude: see how they're doing, change and publish their websites, start a new company from an idea, and get your ads ready as a mission you start in the Towers app.",
-  "author": { "name": "Towers", "url": "https://towers.app" },
+  "author": {
+    "name": "Towers",
+    "url": "https://towers.app"
+  },
   "homepage": "https://towers.app/docs/claude",
   "repository": "https://github.com/jestr-ai/towers-plugin",
   "license": "MIT",
-  "keywords": ["towers", "business", "website", "startup", "marketing", "ads", "analytics"]
+  "privacyPolicyUrl": "https://towers.app/privacy",
+  "keywords": [
+    "towers",
+    "business",
+    "website",
+    "startup",
+    "marketing",
+    "ads",
+    "analytics"
+  ]
 }
