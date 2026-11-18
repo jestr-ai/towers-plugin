@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "towers": {
+      "type": "http",
+      "url": "https://towers.app/mcp/claude"
+    }
+  }
+}
