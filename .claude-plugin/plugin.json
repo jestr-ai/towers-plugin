@@ -11,6 +11,9 @@
   "repository": "https://github.com/jestr-ai/towers-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://towers.app/privacy",
+  "termsOfServiceUrl": "https://towers.app/terms",
+  "supportUrl": "https://towers.app/docs/claude",
+  "documentationUrl": "https://towers.app/docs/claude",
   "keywords": [
     "towers",
     "business",
